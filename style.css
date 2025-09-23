@@ -98,7 +98,7 @@ body {
     background-color: white;
     font-weight: 600;
     font-size: .8rem;
-    cursor: pointer;
+    /*cursor: pointer;*/
     cursor: not-allowed;
     pointer-events: none;
     opacity: 0.5;
