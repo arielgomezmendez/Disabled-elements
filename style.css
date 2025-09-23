@@ -85,7 +85,7 @@ body {
 .name{
      color: rgb(88, 88, 88);
      cursor: not-allowed;
-     opacity: 0.5;
+     opacity: 0.4;
      pointer-events: none
 }
 
@@ -101,6 +101,6 @@ body {
     /*cursor: pointer;*/
     cursor: not-allowed;
     pointer-events: none;
-    opacity: 0.5;
+    opacity: 0.4;
     color: #222;
 }
